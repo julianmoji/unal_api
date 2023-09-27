@@ -1,0 +1,18 @@
+django-extensions==3.1.5
+django-filter==21.1
+django-graphql-jwt==0.4.0
+django-ipware==4.0.2
+# django-jwt-auth==0.0.2
+Django==3.2.17
+graphene-django==3.0.0b7
+graphene==3.1
+graphql-core==3.1.7
+graphql-relay==3.1.0
+#PyJWT==1.7.1
+ipython-genutils==0.2.0
+django-model-utils==4.2.0
+ipython==7.31.1
+django-extensions==3.1.5
+# graphene-permissions==1.1.4
+# Esto está acá hasta que hagan merge del PR # 36 en el repo oficial
+git+https://github.com/gustav0/graphene-permissions.git
