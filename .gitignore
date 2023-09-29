@@ -5,20 +5,7 @@ terraform/.terraform
 *.xml
 *.csv
 *.xls
-camacol/
 .env/*
-.env2/*
-lqn_graphene_concepts/country/data/*
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
-.mio
 
-celerybeat-schedule.db
+
 env.py
-docker.env
-.vscode
-.scannerwork/
-*.DS_Store
-.cov
-docker-compose-local.yml
